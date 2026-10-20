@@ -1,0 +1,1 @@
+{"name":"po-to-crm-deal","version":"1.0.0","type":"module","description":"Wholesale purchase-order PDFs to CRM deals, with every number checked before anything is created","scripts":{"demo":"node demo.js"},"license":"MIT"}
